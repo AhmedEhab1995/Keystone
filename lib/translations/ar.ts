@@ -438,7 +438,7 @@ export const ar = {
       phone: "الهاتف",
       phoneValue: "+٩٧١ ٤ ١٢٣ ٤٥٦٧",
       email: "البريد الإلكتروني",
-      emailValue: "info@keystonefinancial.com",
+      emailValue: "info@keystonediligence.com",
       hours: "ساعات العمل",
       hoursValue: "من الاثنين إلى الجمعة، ٩ صباحًا إلى ٥ مساءً",
     },

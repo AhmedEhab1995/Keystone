@@ -464,7 +464,7 @@ export const en = {
       phone: "Phone",
       phoneValue: "+971 4 123 4567",
       email: "Email",
-      emailValue: "info@keystonefinancial.com",
+      emailValue: "info@keystonediligence.com",
       hours: "Business Hours",
       hoursValue: "Monday to Friday, 9AM to 5PM",
     },
