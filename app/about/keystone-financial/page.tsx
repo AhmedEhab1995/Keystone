@@ -10,7 +10,7 @@ const translations = {
     title: "About Keystone Financial Solutions",
     subtitle: "Your trusted partner in financial intelligence",
     description: [
-      "Keystone Financial Solutions was founded in 2010 with a clear mission: to provide businesses with the financial intelligence they need to thrive in an increasingly complex global economy.",
+      "Keystone Financial Solutions was founded in 2022 with a clear mission: to provide businesses with the financial intelligence they need to thrive in an increasingly complex global economy.",
       "Our team of financial experts, data scientists, and industry specialists work together to deliver innovative solutions that help our clients navigate financial challenges, identify opportunities, and make informed decisions.",
       "At Keystone, we believe that financial intelligence should be accessible, actionable, and aligned with your business goals. That's why we've developed a suite of services that combine cutting-edge technology with human expertise to deliver insights that drive success.",
     ],

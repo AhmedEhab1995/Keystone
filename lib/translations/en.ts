@@ -166,42 +166,36 @@ export const en = {
       subtitle: "The journey of Keystone Financial Solutions",
       timeline: [
         {
-          year: "2010",
+          year: "2022",
           title: "Foundation",
           description:
             "Keystone Financial Solutions was founded by Mona El-Masry with a vision to revolutionize financial intelligence for businesses.",
         },
         {
-          year: "2012",
+          year: "2022",
           title: "First Major Client",
           description:
             "Secured our first enterprise client, a Fortune 500 company that remains a valued partner to this day.",
         },
         {
-          year: "2015",
+          year: "2023",
           title: "Technology Innovation",
           description: "Launched our proprietary financial analytics platform, setting new standards in the industry.",
         },
         {
-          year: "2017",
-          title: "International Expansion",
-          description:
-            "Opened offices in Dubai and Singapore, expanding our services to clients across Asia and the Middle East.",
-        },
-        {
-          year: "2019",
+          year: "2024",
           title: "Legal Risk Report Launch",
           description:
             "Introduced our flagship Legal Risk Report service, combining legal expertise with financial analytics.",
         },
         {
-          year: "2021",
+          year: "2024",
           title: "AI Integration",
           description:
             "Incorporated advanced AI and machine learning capabilities into our financial intelligence solutions.",
         },
         {
-          year: "2023",
+          year: "2024",
           title: "Industry Recognition",
           description: "Received multiple industry awards for innovation and excellence in financial services.",
         },
