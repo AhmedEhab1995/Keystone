@@ -194,17 +194,6 @@ export default function ContactPage() {
             </div>
             <div className="flex items-start gap-4">
               <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary/10">
-                <Phone className="h-5 w-5 text-primary" />
-              </div>
-              <div>
-                <h3 className="font-medium">{t.contact.phone}</h3>
-                <p className="mt-1 text-sm text-muted-foreground">
-                  {t.contact.phoneValue}
-                </p>
-              </div>
-            </div>
-            <div className="flex items-start gap-4">
-              <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary/10">
                 <Mail className="h-5 w-5 text-primary" />
               </div>
               <div>
