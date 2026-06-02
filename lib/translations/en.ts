@@ -139,11 +139,11 @@ export const en = {
       description:
         "Our team brings together decades of experience in finance, technology, and data analytics. We're passionate about helping businesses succeed through intelligent financial solutions.",
         members: [
-          {
-            name: "Mona El-Masry",
-            position: "Chief Executive Officer",
-            bio: "Mona has over 20 years of experience in financial services and technology. She founded Keystone Financial Solutions with a vision to make financial intelligence accessible to businesses of all sizes.",
-          },
+{
+  name: "Ehab Mahmoud Samy",
+  position: "Chief Executive Officer",
+  bio: "Ehab is a distinguished banking and fintech executive with more than 30 years of leadership experience across Egypt and the Middle East. Renowned for his expertise in operational transformation, business process reengineering, and strategic growth, he has successfully led large-scale initiatives that have modernized institutions, optimized performance, and strengthened governance frameworks.",
+},
           {
             name: "Omar Nabil",
             position: "Chief Technology Officer",
