@@ -20,6 +20,7 @@ export const en = {
     monitoringPlus: "Monitoring Plus",
     faq: "FAQ",
     contact: "Contact",
+    ourPeople: "Our People",
     ourTeam: "Our Team",
     ourHistory: "Our History",
   },

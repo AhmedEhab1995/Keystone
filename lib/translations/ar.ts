@@ -20,6 +20,7 @@ export const ar = {
     monitoringPlus: "المراقبة بلس",
     faq: "الأسئلة الشائعة",
     contact: "اتصل بنا",
+    ourPeople: "فريقنا",
     ourTeam: "فريقنا",
     ourHistory: "تاريخنا",
   },

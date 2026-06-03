@@ -77,6 +77,17 @@ export default function Navbar() {
             </li>
             <li>
               <Link
+                href="/about/our-team"
+                className={cn(
+                  "text-sm font-medium transition-colors hover:text-primary",
+                  isActive("/about/our-team") ? "text-primary" : "text-muted-foreground",
+                )}
+              >
+                {t.nav.ourPeople}
+              </Link>
+            </li>
+            <li>
+              <Link
                 href="/faq"
                 className={cn(
                   "text-sm font-medium transition-colors hover:text-primary",
@@ -208,6 +219,16 @@ export default function Navbar() {
                   </DropdownMenuItem>
                 </DropdownMenuContent>
               </DropdownMenu>
+              <Link
+                href="/about/our-team"
+                className={cn(
+                  "text-sm font-medium transition-colors hover:text-primary",
+                  isActive("/about/our-team") ? "text-primary" : "text-muted-foreground",
+                )}
+                onClick={() => setIsOpen(false)}
+              >
+                {t.nav.ourPeople}
+              </Link>
               <Link
                 href="/faq"
                 className={cn(
