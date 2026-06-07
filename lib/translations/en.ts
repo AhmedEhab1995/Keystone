@@ -143,7 +143,7 @@ export const en = {
 {
   name: "Ehab Mahmoud Samy",
   position: "Chief Executive Officer",
-  bio: "Ehab is a distinguished banking and fintech executive with more than 30 years of leadership experience across Egypt and the Middle East. Renowned for his expertise in operational transformation, business process reengineering, and strategic growth, he has successfully led large-scale initiatives that have modernized institutions, optimized performance, and strengthened governance frameworks.",
+  bio: "Ehab Mahmoud Samy is a seasoned banking and fintech executive with over 41 years of leadership experience across Egypt and the Gulf region. Renowned for his expertise in organizational transformation, business process reengineering, and strategic development, he has successfully led initiatives that enhanced operational efficiency, strengthened governance, and delivered sustainable growth. As Chief Executive Officer of Keystone Financial Solutions, Ehab advises and supports financial institutions in digital transformation, performance improvement, and sustainable growth strategies, leveraging deep industry expertise and a forward-looking leadership approach.",
 },
           {
             name: "Omar Nabil",
@@ -455,9 +455,9 @@ export const en = {
     },
     info: {
       address: "Address",
-      addressValue: "Office No. 24, Al Masar Building, off Kasr El Nil Street, Downtown Cairo, Egypt",
+      addressValue: "Office No. 318, 3rd Floor Building B4 Capital Business Park, Sheikh Zayed, Giza, Egypt",
       phone: "Phone",
-      phoneValue: "+971 4 123 4567",
+      phoneValue: "+201038661533",
       email: "Email",
       emailValue: "info@keystonediligence.com",
       hours: "Business Hours",

@@ -31,9 +31,9 @@ const translations = {
     contact: {
       address: "Address",
       addressValue:
-        "Office No. 24, Al Masar Building, off Kasr El Nil Street, Downtown Cairo, Egypt",
+        "Office No. 318, 3rd Floor Building B4 Capital Business Park, Sheikh Zayed, Giza, Egypt",
       phone: "Phone",
-      phoneValue: "+971 4 123 4567",
+      phoneValue: "+201038661533",
       email: "Email",
       emailValue: "info@keystonediligence.com",
       hours: "Business Hours",
@@ -57,9 +57,9 @@ const translations = {
     contact: {
       address: "العنوان",
       addressValue:
-        "المكتب رقم ٢٤، مبنى المسار، متفرع من شارع قصر النيل، وسط البلد، القاهرة، مصر",
+        "مكتب رقم 318، الدور الثالث، مبنى B4، كابيتال بيزنس بارك، الشيخ زايد، الجيزة، مصر",
       phone: "الهاتف",
-      phoneValue: "+٩٧١ ٤ ١٢٣ ٤٥٦٧",
+      phoneValue: "+٢٠١٠٣٨٦٦١٥٣٣",
       email: "البريد الإلكتروني",
       emailValue: "info@keystonediligence.com",
       hours: "ساعات العمل",
@@ -189,6 +189,17 @@ export default function ContactPage() {
                 <h3 className="font-medium">{t.contact.address}</h3>
                 <p className="mt-1 text-sm text-muted-foreground">
                   {t.contact.addressValue}
+                </p>
+              </div>
+            </div>
+            <div className="flex items-start gap-4">
+              <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary/10">
+                <Phone className="h-5 w-5 text-primary" />
+              </div>
+              <div>
+                <h3 className="font-medium">{t.contact.phone}</h3>
+                <p className="mt-1 text-sm text-muted-foreground" dir="ltr">
+                  {t.contact.phoneValue}
                 </p>
               </div>
             </div>
